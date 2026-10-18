@@ -1,0 +1,150 @@
+protein_id	species	gene	protein_name	sequence_length	temporal_class	functional_class	ortholog_group	membrane	is_partial	kept_accession_source	notes
+SBO07573	HSV-1	UL1	Envelope glycoprotein L precursor	224	L	Glycoprotein_Envelope	OG_UL1	yes	no	curation_report	Canonical reference protein
+QAU09498	HSV-1	UL2	Uracil-DNA glycosylase	334	E	Replication	OG_UL2	no	no	curation_report	Canonical reference protein
+QAU09499	HSV-1	UL3	Nuclear protein UL3	224	E	Tegument	OG_UL3	no	no	curation_report	Canonical reference protein
+QAU09500	HSV-1	UL4	Tegument protein UL4	199	E	Tegument	OG_UL4	no	no	curation_report	Canonical reference protein
+QAU09501	HSV-1	UL5	Helicase-primase helicase subunit	882	E	Replication	OG_UL5	no	no	curation_report	Canonical reference protein
+P10190	HSV-1	UL6	Capsid portal protein	676	L	Capsid_Assembly	OG_UL6	no	no	curation_report	Canonical reference protein
+QAU09503	HSV-1	UL7	Tegument protein UL7	296	L	Tegument	OG_UL7	no	no	curation_report	Canonical reference protein
+QAU09504	HSV-1	UL8	Helicase-primase subunit	750	E	Replication	OG_UL8	no	no	curation_report	Canonical reference protein
+SBO07685	HSV-1	UL9	Replication origin-binding protein	816	E	Replication	OG_UL9	no	no	curation_report	Canonical reference protein
+SCL76857	HSV-1	UL10	Envelope glycoprotein M	455	E	Glycoprotein_Envelope	OG_UL10	yes	no	curation_report	Canonical reference protein
+QAU09358	HSV-1	UL11	Myristylated tegument protein UL11	97	E	Tegument	OG_UL11	yes	no	curation_report	Membrane-associated via N-terminal myristoylation/palmitoylation
+SBO07579	HSV-1	UL12	Alkaline nuclease	500	E	Replication	OG_UL12	no	no	curation_report	Canonical reference protein
+SBO07708	HSV-1	UL13	Serine/threonine-protein kinase UL13	437	E	Tegument	OG_UL13	no	no	curation_report	Canonical reference protein
+SBO07715	HSV-1	UL14	Tegument protein UL14	219	L	Tegument	OG_UL14	no	no	curation_report	Canonical reference protein
+QAU10273	HSV-1	UL15	Tripartite terminase subunit UL15	735	L	Capsid_Assembly	OG_UL15	no	no	curation_report	Canonical reference protein
+SCL76862	HSV-1	UL16	Capsid-binding tegument protein UL16	373	E	Tegument	OG_UL16	no	no	curation_report	Canonical reference protein
+SBO07731	HSV-1	UL17	Virion-packaging protein UL17	703	L	Capsid_Assembly	OG_UL17	no	no	curation_report	Canonical reference protein
+QAU09514	HSV-1	UL18	Capsid triplex subunit VP23	318	L	Capsid_Assembly	OG_UL18	no	no	curation_report	Canonical reference protein
+SBO07755	HSV-1	UL19	Major capsid protein VP5	1374	L	Capsid_Assembly	OG_UL19	no	no	curation_report	Canonical reference protein
+QAU09516	HSV-1	UL20	Envelope membrane protein UL20	222	E	Glycoprotein_Envelope	OG_UL20	yes	no	curation_report	Canonical reference protein
+P09855	HSV-1	UL21	Tegument protein UL21	535	E	Tegument	OG_UL21	no	no	curation_report	Canonical reference protein
+SCL76868	HSV-1	UL22	Envelope glycoprotein H precursor	838	L	Glycoprotein_Envelope	OG_UL22	yes	no	curation_report	Canonical reference protein
+P17402	HSV-1	UL23	Thymidine kinase	376	E	Replication	OG_UL23	no	no	curation_report	Canonical reference protein
+P10208	HSV-1	UL24	Nuclear egress protein UL24	269	E	Tegument	OG_UL24	no	no	curation_report	Canonical reference protein
+SBO07636	HSV-1	UL25	Virion-packaging protein UL25	580	L	Capsid_Assembly	OG_UL25	no	no	curation_report	Canonical reference protein
+QAU09522	HSV-1	UL26	Capsid maturation protease VP24	635	L	Capsid_Assembly	OG_UL26	no	no	curation_report	Canonical reference protein
+QDY91996	HSV-1	UL26.5	Capsid scaffolding protein VP22a	329	L	Capsid_Assembly	OG_UL26.5	no	no	curation_report	Nested/overlapping functional protein distinct from UL26
+SBO07646	HSV-1	UL27	Envelope glycoprotein B precursor	742	E-L	Glycoprotein_Envelope	OG_UL27	yes	no	curation_report	Confirmed full-length 904 aa against RefSeq; 100% identity to HG52 gB
+SCL76873	HSV-1	UL28	Tripartite terminase subunit UL28	785	L	Capsid_Assembly	OG_UL28	no	no	curation_report	Canonical reference protein
+P17469	HSV-1	UL29	Major DNA-binding protein ICP8	1196	E	Replication	OG_UL29	no	no	curation_report	Canonical reference protein
+SCL76875	HSV-1	UL30	DNA polymerase catalytic subunit	1235	E	Replication	OG_UL30	no	no	curation_report	Canonical reference protein
+SBO07674	HSV-1	UL31	Nuclear egress lamina protein	231	E	Egress	OG_UL31	no	no	curation_report	Confirmed full-length 306 aa against RefSeq; authentic nuclear egress lamina protein
+QAU09529	HSV-1	UL32	Envelope-associated protein UL32	596	E	Capsid_Assembly	OG_UL32	no	no	curation_report	Canonical reference protein
+SCL76877	HSV-1	UL33	Tripartite terminase subunit UL33	123	E	Capsid_Assembly	OG_UL33	no	no	curation_report	Canonical reference protein
+SBO07840	HSV-1	UL34	Inner nuclear membrane egress protein UL34	275	E	Egress	OG_UL34	yes	no	curation_report	Canonical reference protein
+QAU09532	HSV-1	UL35	Small capsomer protein VP26	112	L	Capsid_Assembly	OG_UL35	no	no	curation_report	Canonical reference protein
+SBO07848	HSV-1	UL36	Large tegument protein deneddylase	3112	L	Tegument	OG_UL36	no	no	curation_report	Canonical reference protein
+SBO07767	HSV-1	UL37	Capsid assembly protein UL37	1123	E	Tegument	OG_UL37	no	no	curation_report	Canonical reference protein
+SBO07862	HSV-1	UL38	Capsid triplex subunit VP19C	465	L	Capsid_Assembly	OG_UL38	no	no	curation_report	Canonical reference protein
+SBO07866	HSV-1	UL39	Ribonucleotide reductase large subunit ICP6	1137	E	Replication	OG_UL39	no	no	curation_report	Canonical reference protein
+QAU09536	HSV-1	UL40	Ribonucleotide reductase small subunit	340	E	Replication	OG_UL40	no	no	curation_report	Canonical reference protein
+QAU09537	HSV-1	UL41	Virion host shutoff protein vhs	489	L	Tegument	OG_UL41	no	no	curation_report	Canonical reference protein
+SBO07721	HSV-1	UL42	DNA polymerase processivity factor	505	E	Replication	OG_UL42	no	no	curation_report	Canonical reference protein
+P10227	HSV-1	UL43	Envelope membrane protein UL43	417	E	Glycoprotein_Envelope	OG_UL43	yes	no	curation_report	Canonical reference protein
+SBO07880	HSV-1	UL44	Envelope glycoprotein C precursor	511	L	Glycoprotein_Envelope	OG_UL44	yes	no	curation_report	Canonical reference protein
+QAU09541	HSV-1	UL45	Envelope membrane protein UL45	172	E	Glycoprotein_Envelope	OG_UL45	yes	no	curation_report	Canonical reference protein
+SBO07739	HSV-1	UL46	Tegument protein VP11/12	718	L	Tegument	OG_UL46	no	no	curation_report	Canonical reference protein
+P08313	HSV-1	UL47	Tegument protein VP13/14	693	E	Tegument	OG_UL47	no	no	curation_report	Canonical reference protein
+SBO07888	HSV-1	UL48	Transactivating tegument protein VP16	490	L	Tegument	OG_UL48	no	no	curation_report	Canonical reference protein
+QAU09545	HSV-1	UL49	Tegument protein VP22	301	E	Tegument	OG_UL49	no	no	curation_report	Canonical reference protein
+QAU09546	HSV-1	UL49A	Envelope glycoprotein N	91	L	Glycoprotein_Envelope	OG_UL49A	yes	no	curation_report	Nested/overlapping functional protein distinct from UL49A
+QAU09547	HSV-1	UL50	Deoxyuridine 5-triphosphatase dUTPase	371	E	Replication	OG_UL50	no	no	curation_report	Canonical reference protein
+SCL76893	HSV-1	UL51	Tegument protein UL51	224	E	Tegument	OG_UL51	no	no	curation_report	Canonical reference protein
+QAU09549	HSV-1	UL52	Helicase-primase primase subunit	1058	E	Replication	OG_UL52	no	no	curation_report	Canonical reference protein
+QAU09550	HSV-1	UL53	Envelope glycoprotein K precursor	338	L	Glycoprotein_Envelope	OG_UL53	yes	no	curation_report	Canonical reference protein
+SBO07843	HSV-1	UL54	mRNA export factor ICP27	454	IE	Regulatory	OG_UL54	no	no	curation_report	Canonical reference protein
+P36296	HSV-1	UL55	Tegument protein UL55	186	E	Tegument	OG_UL55	no	no	curation_report	Canonical reference protein
+P36297	HSV-1	UL56	Membrane protein UL56	233	E	Tegument	OG_UL56	yes	no	curation_report	Canonical reference protein
+SCL76894	HSV-1	UL70	DNA primase UL70	946	E	Replication	OG_UL70	no	no	curation_report	HSV-1 legacy annotation for DNA primase (homolog of UL52); absent in HSV-2 dataset
+SCL76898	HSV-1	US1	Transcriptional regulator ICP22	420	IE	Regulatory	OG_US1	no	no	curation_report	Canonical reference protein
+QAU09558	HSV-1	US2	Tegument protein US2	291	L	Tegument	OG_US2	no	no	curation_report	Canonical reference protein
+P04413	HSV-1	US3	Serine/threonine-protein kinase US3	481	E	Tegument	OG_US3	no	no	curation_report	Canonical reference protein
+SBO07811	HSV-1	US4	Envelope glycoprotein G precursor	238	L	Glycoprotein_Envelope	OG_US4	yes	no	curation_report	Canonical reference protein
+QAU09561	HSV-1	US5	Envelope glycoprotein J	92	L	Glycoprotein_Envelope	OG_US5	yes	no	curation_report	Canonical reference protein
+QAU09562	HSV-1	US6	Envelope glycoprotein D precursor	394	L	Glycoprotein_Envelope	OG_US6	yes	no	curation_report	Canonical reference protein
+SBO07796	HSV-1	US7	Envelope glycoprotein I precursor	390	L	Glycoprotein_Envelope	OG_US7	yes	no	curation_report	Canonical reference protein
+SBO07830	HSV-1	US8	Envelope glycoprotein E precursor	479	L	Glycoprotein_Envelope	OG_US8	yes	no	curation_report	Canonical reference protein
+UVC67097	HSV-1	US8A	Membrane protein US8A	157	L	Glycoprotein_Envelope	OG_US8A	yes	no	curation_report	Nested/overlapping functional protein distinct from US8A
+SBO07835	HSV-1	US9	Envelope protein US9	90	L	Glycoprotein_Envelope	OG_US9	yes	no	curation_report	Canonical reference protein
+QAU10103	HSV-1	US10	Tegument protein US10	312	L	Tegument	OG_US10	no	no	curation_report	Canonical reference protein
+QAU10104	HSV-1	US11	RNA-binding tegument protein US11	161	L	Tegument	OG_US11	no	no	curation_report	Canonical reference protein
+QAU09568	HSV-1	US12	Peptide transport inhibitor ICP47	88	IE	Immune_Evasion	OG_US12	no	no	curation_report	Immune_Evasion assigned; can fold into Regulatory for 6-class modeling
+P08353	HSV-1	RL1	Neurovirulence factor ICP34.5	263	L	Immune_Evasion	OG_RL1	no	no	curation_report	Immune_Evasion assigned; can fold into Regulatory for 6-class modeling
+P08393	HSV-1	RL2	E3 ubiquitin-protein ligase ICP0	775	IE	Regulatory	OG_RL2	no	no	curation_report	Canonical reference protein
+WNO45762	HSV-1	RS1	Transcriptional regulator ICP4	1298	IE	Regulatory	OG_RS1	no	no	curation_report	Canonical reference protein
+QAU10920	HSV-2	UL1	Envelope glycoprotein L precursor	224	L	Glycoprotein_Envelope	OG_UL1	yes	no	curation_report	Canonical reference protein
+QAU10994	HSV-2	UL2	Uracil-DNA glycosylase	334	E	Replication	OG_UL2	no	no	curation_report	Canonical reference protein
+QAU10995	HSV-2	UL3	Nuclear protein UL3	222	E	Tegument	OG_UL3	no	no	curation_report	Canonical reference protein
+QAU10997	HSV-2	UL4	Tegument protein UL4	201	E	Tegument	OG_UL4	no	no	curation_report	Canonical reference protein
+QAU10996	HSV-2	UL5	Helicase-primase helicase subunit	881	E	Replication	OG_UL5	no	no	curation_report	Canonical reference protein
+WZW69518	HSV-2	UL6	Capsid portal protein	676	L	Capsid_Assembly	OG_UL6	no	no	curation_report	Canonical reference protein
+QAU10999	HSV-2	UL7	Tegument protein UL7	296	L	Tegument	OG_UL7	no	no	curation_report	Canonical reference protein
+QBH84414	HSV-2	UL8	Helicase-primase subunit	750	E	Replication	OG_UL8	no	no	curation_report	Canonical reference protein
+WZW68501	HSV-2	UL9	Replication origin-binding protein	863	E	Replication	OG_UL9	no	no	curation_report	Canonical reference protein
+QAU11002	HSV-2	UL10	Envelope glycoprotein M	467	E	Glycoprotein_Envelope	OG_UL10	yes	no	curation_report	Canonical reference protein
+QAU11006	HSV-2	UL11	Myristylated tegument protein UL11	96	E	Tegument	OG_UL11	yes	no	curation_report	Membrane-associated via N-terminal myristoylation/palmitoylation
+P06489	HSV-2	UL12	Alkaline nuclease	620	E	Replication	OG_UL12	no	no	curation_report	Canonical reference protein
+QAU11004	HSV-2	UL13	Serine/threonine-protein kinase UL13	518	E	Tegument	OG_UL13	no	no	curation_report	Canonical reference protein
+QBH84700	HSV-2	UL14	Tegument protein UL14	238	L	Tegument	OG_UL14	no	no	curation_report	Canonical reference protein
+QAU11007	HSV-2	UL15	Tripartite terminase subunit UL15	734	L	Capsid_Assembly	OG_UL15	no	no	curation_report	Canonical reference protein
+QAU11009	HSV-2	UL16	Capsid-binding tegument protein UL16	372	E	Tegument	OG_UL16	no	no	curation_report	Canonical reference protein
+QBH82002	HSV-2	UL17	Virion-packaging protein UL17	703	L	Capsid_Assembly	OG_UL17	no	no	curation_report	Canonical reference protein
+QAU11012	HSV-2	UL18	Capsid triplex subunit VP23	318	L	Capsid_Assembly	OG_UL18	no	no	curation_report	Canonical reference protein
+QAU11011	HSV-2	UL19	Major capsid protein VP5	1374	L	Capsid_Assembly	OG_UL19	no	no	curation_report	Canonical reference protein
+QAU11010	HSV-2	UL20	Envelope membrane protein UL20	222	E	Glycoprotein_Envelope	OG_UL20	yes	no	curation_report	Canonical reference protein
+QBH85031	HSV-2	UL21	Tegument protein UL21	534	E	Tegument	OG_UL21	no	no	curation_report	Canonical reference protein
+QAU11014	HSV-2	UL22	Envelope glycoprotein H precursor	838	L	Glycoprotein_Envelope	OG_UL22	yes	no	curation_report	Canonical reference protein
+QAU11015	HSV-2	UL23	Thymidine kinase	376	E	Replication	OG_UL23	no	no	curation_report	Canonical reference protein
+QAU11016	HSV-2	UL24	Nuclear egress protein UL24	281	E	Tegument	OG_UL24	no	no	curation_report	Canonical reference protein
+QBH87518	HSV-2	UL25	Virion-packaging protein UL25	580	L	Capsid_Assembly	OG_UL25	no	no	curation_report	Canonical reference protein
+ULT85411	HSV-2	UL26	Capsid maturation protease VP24	636	L	Capsid_Assembly	OG_UL26	no	no	curation_report	Canonical reference protein
+XHV13253	HSV-2	UL26.5	Capsid scaffolding protein VP22a	329	L	Capsid_Assembly	OG_UL26.5	no	no	curation_report	Nested/overlapping functional protein distinct from UL26
+QAU10510	HSV-2	UL27	Envelope glycoprotein B precursor	904	E-L	Glycoprotein_Envelope	OG_UL27	yes	no	curation_report	Confirmed full-length 904 aa against RefSeq; 100% identity to HG52 gB
+QAU11020	HSV-2	UL28	Tripartite terminase subunit UL28	785	L	Capsid_Assembly	OG_UL28	no	no	curation_report	Canonical reference protein
+P36384	HSV-2	UL29	Major DNA-binding protein ICP8	1197	E	Replication	OG_UL29	no	no	curation_report	Canonical reference protein
+WZW62191	HSV-2	UL30	DNA polymerase catalytic subunit	1235	E	Replication	OG_UL30	no	no	curation_report	Canonical reference protein
+WZW62192	HSV-2	UL31	Nuclear egress lamina protein	306	E	Egress	OG_UL31	no	no	curation_report	Confirmed full-length 306 aa against RefSeq; authentic nuclear egress lamina protein
+QAU10951	HSV-2	UL32	Envelope-associated protein UL32	596	E	Capsid_Assembly	OG_UL32	no	no	curation_report	Canonical reference protein
+QAU11026	HSV-2	UL33	Tripartite terminase subunit UL33	130	E	Capsid_Assembly	OG_UL33	no	no	curation_report	Canonical reference protein
+QAU11027	HSV-2	UL34	Inner nuclear membrane egress protein UL34	276	E	Egress	OG_UL34	yes	no	curation_report	Canonical reference protein
+QAU11028	HSV-2	UL35	Small capsomer protein VP26	112	L	Capsid_Assembly	OG_UL35	no	no	curation_report	Canonical reference protein
+QBH86218	HSV-2	UL36	Large tegument protein deneddylase	3154	L	Tegument	OG_UL36	no	no	curation_report	Canonical reference protein
+QBH85968	HSV-2	UL37	Capsid assembly protein UL37	1122	E	Tegument	OG_UL37	no	no	curation_report	Canonical reference protein
+QAU11030	HSV-2	UL38	Capsid triplex subunit VP19C	466	L	Capsid_Assembly	OG_UL38	no	no	curation_report	Canonical reference protein
+WZW66916	HSV-2	UL39	Ribonucleotide reductase large subunit ICP6	1139	E	Replication	OG_UL39	no	no	curation_report	Canonical reference protein
+QAU11032	HSV-2	UL40	Ribonucleotide reductase small subunit	337	E	Replication	OG_UL40	no	no	curation_report	Canonical reference protein
+QAU11033	HSV-2	UL41	Virion host shutoff protein vhs	492	L	Tegument	OG_UL41	no	no	curation_report	Canonical reference protein
+QBH76034	HSV-2	UL42	DNA polymerase processivity factor	490	E	Replication	OG_UL42	no	no	curation_report	Canonical reference protein
+QAU11035	HSV-2	UL43	Envelope membrane protein UL43	414	E	Glycoprotein_Envelope	OG_UL43	yes	no	curation_report	Canonical reference protein
+QAU11036	HSV-2	UL44	Envelope glycoprotein C precursor	480	L	Glycoprotein_Envelope	OG_UL44	yes	no	curation_report	Canonical reference protein
+QAU11037	HSV-2	UL45	Envelope membrane protein UL45	172	E	Glycoprotein_Envelope	OG_UL45	yes	no	curation_report	Canonical reference protein
+ATB17437	HSV-2	UL46	Tegument protein VP11/12	718	L	Tegument	OG_UL46	no	no	curation_report	Canonical reference protein
+WZW69438	HSV-2	UL47	Tegument protein VP13/14	694	E	Tegument	OG_UL47	no	no	curation_report	Canonical reference protein
+QAU11040	HSV-2	UL48	Transactivating tegument protein VP16	490	L	Tegument	OG_UL48	no	no	curation_report	Canonical reference protein
+WZW68824	HSV-2	UL49	Tegument protein VP22	301	E	Tegument	OG_UL49	no	no	curation_report	Canonical reference protein
+QBH83246	HSV-2	UL49A	Envelope glycoprotein N	91	L	Glycoprotein_Envelope	OG_UL49A	yes	no	curation_report	Nested/overlapping functional protein distinct from UL49A
+QBH83247	HSV-2	UL50	Deoxyuridine 5-triphosphatase dUTPase	371	E	Replication	OG_UL50	no	no	curation_report	Canonical reference protein
+QAU11044	HSV-2	UL51	Tegument protein UL51	244	E	Tegument	OG_UL51	no	no	curation_report	Canonical reference protein
+AWP48720	HSV-2	UL52	Helicase-primase primase subunit	1060	E	Replication	OG_UL52	no	no	curation_report	Canonical reference protein
+QAU11046	HSV-2	UL53	Envelope glycoprotein K precursor	338	L	Glycoprotein_Envelope	OG_UL53	yes	no	curation_report	Canonical reference protein
+QAU11047	HSV-2	UL54	mRNA export factor ICP27	512	IE	Regulatory	OG_UL54	no	no	curation_report	Canonical reference protein
+QAU11048	HSV-2	UL55	Tegument protein UL55	186	E	Tegument	OG_UL55	no	no	curation_report	Canonical reference protein
+QAU11049	HSV-2	UL56	Membrane protein UL56	235	E	Tegument	OG_UL56	yes	no	curation_report	Canonical reference protein
+AMB66097	HSV-2	US1	Transcriptional regulator ICP22	416	IE	Regulatory	OG_US1	no	no	curation_report	Canonical reference protein
+QAU11054	HSV-2	US2	Tegument protein US2	291	L	Tegument	OG_US2	no	no	curation_report	Canonical reference protein
+QAU11055	HSV-2	US3	Serine/threonine-protein kinase US3	481	E	Tegument	OG_US3	no	no	curation_report	Canonical reference protein
+WZW67217	HSV-2	US4	Envelope glycoprotein G precursor	695	L	Glycoprotein_Envelope	OG_US4	yes	no	curation_report	Canonical reference protein
+QAU11057	HSV-2	US5	Envelope glycoprotein J	92	L	Glycoprotein_Envelope	OG_US5	yes	no	curation_report	Canonical reference protein
+AMB66102	HSV-2	US6	Envelope glycoprotein D precursor	394	L	Glycoprotein_Envelope	OG_US6	yes	no	curation_report	Canonical reference protein
+QBC74585	HSV-2	US7	Envelope glycoprotein I precursor	376	L	Glycoprotein_Envelope	OG_US7	yes	no	curation_report	Canonical reference protein
+QAU11060	HSV-2	US8	Envelope glycoprotein E precursor	548	L	Glycoprotein_Envelope	OG_US8	yes	no	curation_report	Canonical reference protein
+QAU11061	HSV-2	US8A	Membrane protein US8A	146	L	Glycoprotein_Envelope	OG_US8A	yes	no	curation_report	Nested/overlapping functional protein distinct from US8A
+QAU11062	HSV-2	US9	Envelope protein US9	89	L	Glycoprotein_Envelope	OG_US9	yes	no	curation_report	Canonical reference protein
+XHV12451	HSV-2	US10	Tegument protein US10	314	L	Tegument	OG_US10	no	no	curation_report	Canonical reference protein
+ULT85458	HSV-2	US11	RNA-binding tegument protein US11	162	L	Tegument	OG_US11	no	no	curation_report	Canonical reference protein
+P60504	HSV-2	US12	Peptide transport inhibitor ICP47	78	IE	Immune_Evasion	OG_US12	no	no	curation_report	Immune_Evasion assigned; can fold into Regulatory for 6-class modeling
+YBQ69732	HSV-2	RL1	Neurovirulence factor ICP34.5	261	L	Immune_Evasion	OG_RL1	no	no	curation_report	Immune_Evasion assigned; can fold into Regulatory for 6-class modeling
+XHV11823	HSV-2	RL2	E3 ubiquitin-protein ligase ICP0	796	IE	Regulatory	OG_RL2	no	no	curation_report	Canonical reference protein
+XHV13070	HSV-2	RS1	Transcriptional regulator ICP4	1308	IE	Regulatory	OG_RS1	no	no	curation_report	Canonical reference protein

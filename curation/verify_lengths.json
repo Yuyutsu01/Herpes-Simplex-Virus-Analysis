@@ -1,0 +1,34 @@
+[
+  {
+    "gene": "UL31",
+    "species": "HSV-2",
+    "kept_accession": "WZW62192.1",
+    "length_kept": 306,
+    "refseq_accession": "YP_009137183.1",
+    "length_refseq": 305,
+    "identity_pct": 91.15,
+    "coverage_pct": 100.0,
+    "start_met": "yes",
+    "ends_at_stop": "yes",
+    "internal_stops": 0,
+    "verdict": "CONFIRMED_FULL_LENGTH",
+    "refseq_product": "nuclear egress lamina protein",
+    "alignment_summary": "278/305 matches over 310 aligned positions"
+  },
+  {
+    "gene": "UL27",
+    "species": "HSV-2",
+    "kept_accession": "QAU10510.1",
+    "length_kept": 904,
+    "refseq_accession": "YP_009137179.1",
+    "length_refseq": 904,
+    "identity_pct": 100.0,
+    "coverage_pct": 100.0,
+    "start_met": "yes",
+    "ends_at_stop": "yes",
+    "internal_stops": 0,
+    "verdict": "CONFIRMED_FULL_LENGTH",
+    "refseq_product": "envelope glycoprotein B",
+    "alignment_summary": "904/904 matches over 904 aligned positions"
+  }
+]
