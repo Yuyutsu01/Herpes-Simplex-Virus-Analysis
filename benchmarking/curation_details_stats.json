@@ -1,0 +1,13 @@
+{
+  "keep_hsv1_count": 75,
+  "keep_hsv2_count": 74,
+  "merge_count": 18455,
+  "exclude_count": 1058,
+  "review_count": 3048,
+  "warnings_ambig_count": 2201,
+  "warnings_stop_count": 0,
+  "warnings_short_count": 488,
+  "warnings_long_count": 662,
+  "warnings_unlabeled_count": 313,
+  "warnings_inconsistent_count": 626
+}

@@ -1,0 +1,32 @@
+{
+  "total_records": 22710,
+  "records_per_source_file": {
+    "HSV2_non_redundant (2).fasta": 10540,
+    "non_redundant.fasta": 12170
+  },
+  "records_per_organism_inferred": {
+    "unknown": 225,
+    "HSV-2": 10273,
+    "non-viral": 351,
+    "HSV-1": 11818,
+    "other herpesvirus": 43
+  },
+  "records_per_recommended_status": {
+    "REVIEW": 3048,
+    "MERGE": 18455,
+    "EXCLUDE": 1058,
+    "KEEP": 149
+  },
+  "exact_duplicate_groups_count": 21,
+  "near_duplicate_clusters_count": 1292,
+  "partial_records_count": 3211,
+  "contamination_flagged_count": 1058,
+  "contamination_by_reason": {
+    "patent": 49,
+    "antibody": 19,
+    "host": 118,
+    "other-virus": 728,
+    "TCR": 139,
+    "vector": 5
+  }
+}
