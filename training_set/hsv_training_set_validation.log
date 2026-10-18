@@ -1,0 +1,14 @@
+=== HSV TRAINING SET VALIDATION LOG ===
+Check 1: Exactly 149 rows with provenance == 'canonical': PASS (count=149)
+Check 2: Every canonical row's gene matches hsv_annotation.tsv: PASS
+Check 3: Every merged_isolate row has a valid canonical_protein_id: PASS
+Check 4: No row has non-standard amino acids: PASS (non-standard count=0)
+Check 5: No row has internal '*': PASS (stop count=0)
+Check 6: Sum of rows == 149 + ASSIGNED clean MERGE rows (9298): PASS (total rows=9298)
+
+Counts by (species, functional_class):
+functional_class  Capsid_Assembly  Glycoprotein_Envelope  Regulatory  Replication  Tegument   All
+species                                                                                          
+HSV-1                        1047                   1277         633         1810      1518  6285
+HSV-2                         416                    846         228          757       766  3013
+All                          1463                   2123         861         2567      2284  9298
